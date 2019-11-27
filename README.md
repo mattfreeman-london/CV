@@ -18,6 +18,8 @@ Experience - doesn't have to be too full (it's only useful if it's relevant). Le
 
 Add a few hobbies, the most interesting ones not the generic ones. 
 
+5 year plan - working for a games company (indy? big league?)
+
 ## Matt Freeman
 
 I'm a developer-in-training with a lot of life experience, changing careers after working in Customer Services. Working through the Makers Bootcamp in London on an intensive course to bring me up to date with excellent working practices, such as Agile, and learning different languages. The goal is to work on projects that make a difference to the users by making sure they're bug-free and accessible to all.
