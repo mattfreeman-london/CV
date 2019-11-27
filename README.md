@@ -18,7 +18,7 @@ Experience - doesn't have to be too full (it's only useful if it's relevant). Le
 
 Add a few hobbies, the most interesting ones not the generic ones. 
 
-5 year plan - working for a games company (indy? big league?)
+5 year plan - working for a games company (indy? big league?) Mention ed fringe run, talk about being supportive and listening
 
 ## Matt Freeman
 
