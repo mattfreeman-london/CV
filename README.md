@@ -1,25 +1,3 @@
-Notes from Tech CV workshop (to be removed asap):
-
-Be confident! Makers has a long track record of delivering new developers with high EQ, workrate, knowledge etc. 
-
-Get a good CV, but it doesn't have to be amazing. However, the key is getting yourself out to people over having something that took you two weeks to do. Likely that your GitHub CV will be a main point of call. GitHub CV can be longer, so long as it doesn't waffle. :D
-
-Actual CV should all fit on one page. https://enhancv.com/ is a good place to look for this. Write in simple English, communicate clearly - make the recruiters job easy! It probably won't all be read. 
-
-If they read the first paragraph and nothing else, it should be enough to tempt them for an interview. YOU'RE A FULL STACK DEVELOPER, CLAIM IT. No need to sell Makers. Show something of your technical help - what do you love, what hooked you? Mention the blog. 
-
-There's a big list of tech skills we've been exposed to - put them all down!
-
-LIST 3-5 PROJECTS MINIMUM, as the second thing on the list. Show it, rather than list it. Talk about the team experience, what the code does (even if you didn't code all of it). 
-
-Skills - the skills you list are less important than the examples you use to back it up. Maybe not team player or great communicator (these are the most common things to put). Mix up technical examples with things from other areas in your life. 
-
-Experience - doesn't have to be too full (it's only useful if it's relevant). Leadership, automation, project management. Account for your years, don't leave gaps. Education - OK to start at university. 
-
-Add a few hobbies, the most interesting ones not the generic ones. 
-
-5 year plan - working for a games company (indy? big league?) Mention ed fringe run, talk about being supportive and listening
-
 ## Matt Freeman
 
 I'm a developer-in-training with a lot of life experience, changing careers after working in Customer Services. Working through the Makers Bootcamp in London on an intensive course to bring me up to date with excellent working practices, such as Agile, and learning different languages. The goal is to work on projects that make a difference to the users by making sure they're bug-free and accessible to all.
