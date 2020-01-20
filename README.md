@@ -1,9 +1,15 @@
 ## Matt Freeman
 
-I'm a developer-in-training with a lot of life experience, changing careers after working in Customer Services. Working through the Makers Bootcamp in London on an intensive course to bring me up to date with excellent working practices, such as Agile, and learning different languages. The goal is to work on projects that make a difference to the users by making sure they're bug-free and accessible to all.
+I'm a developer-in-training with a lot of life experience, changing careers after working in Customer Services. Graduated from the Makers Bootcamp in London in January 2020 on an intensive course to bring me up to date with excellent working practices, such as Agile, and learning different languages. The goal is to work on projects that make a difference to the users by making sure they're bug-free and accessible to all.
 
-GitHub profile: https://github.com/mattfreeman-london
-Blog - https://medium.com/@mathew.s.l.freeman
+(GitHub profile)[https://github.com/mattfreeman-london]
+(Blog)[https://medium.com/@mathew.s.l.freeman]
+
+## Projects
+
+(Raspberry Pi Security Sensor)[https://github.com/mattfreeman-london/RPI-Security-Sensor]
+(AceOfBaseBook)[https://github.com/mattfreeman-london/acebook-AceofBaseBook] - social media site
+(AirCouch)[https://github.com/mattfreeman-london/aircouch] - holiday booking site
 
 ## Skills
 
@@ -20,10 +26,9 @@ Blog - https://medium.com/@mathew.s.l.freeman
 
 #### Makers Academy (Oct 2019 - Jan 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Working practices: Agile/XP, morning stand ups, afternoon retros, two-day sprints
+- Programming languages: Ruby, Rails, JavaScript, Python
+- Testing frameworks: RSpec, Jasmine, Capybara, Unittest
 
 #### University of Plymouth (Sept 1998 to June 2000)
 
