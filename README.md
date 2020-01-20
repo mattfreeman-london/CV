@@ -7,9 +7,24 @@ I'm a developer-in-training with a lot of life experience, changing careers afte
 
 ## Projects
 
-- [Raspberry Pi Security Sensor](https://github.com/mattfreeman-london/RPI-Security-Sensor)
-- [AceOfBaseBook](https://github.com/mattfreeman-london/acebook-AceofBaseBook) - social media site
-- [AirCouch](https://github.com/mattfreeman-london/aircouch) - holiday booking site
+- [Raspberry Pi Security Sensor](https://github.com/mattfreeman-london/RPI-Security-Sensor). Final project at Makers, using a Raspberry Pi, motion sensor and camera to take pictures and send them to a website. A notification is also sent via IFTTT to a Slack channel. 
+- [AceOfBaseBook](https://github.com/mattfreeman-london/acebook-AceofBaseBook) - social media site, based on Facebook.
+- [AirCouch](https://github.com/mattfreeman-london/aircouch) - holiday booking site, based on AirBnb.
+
+## Education
+
+#### Makers Academy (Oct 2019 - Jan 2020)
+
+- Working practices: Agile/XP, morning stand ups, afternoon retros, two-day sprints
+- Programming languages: Ruby, Rails, JavaScript, Python
+- Testing frameworks: RSpec, Jasmine, Capybara, Unittest
+- Other: Sinatra, Travis, Heroku
+
+#### University of Plymouth (Sept 1998 to June 2000)
+
+- Theatre and Performance Studies(BA Hons)
+- studied a huge variety of theatre styles from all over the world, performing in end-of-terms showcases
+- also a member of the Amateur Dramatics group, including working as a Producer in my final year as well as taking the lead role in the end of year show, Me & My Girl. 
 
 ## Skills
 
@@ -21,20 +36,6 @@ I'm a developer-in-training with a lot of life experience, changing careers afte
 
 #### Rapid decision making & an ability to change my mind
 - my major hobby is playing modern board games. This teaches an essential skill, in that you're constantly having to make decisions based on an ever-changing state of play. Part of being a good player is not holding up the game, so I learnt to make a decision and live with the consequences. If the situation changes, or if I'm in error, I'm able to admit to it, move on, and take a more appropriate action. I always treat this as a chance to learn something new. 
-
-## Education
-
-#### Makers Academy (Oct 2019 - Jan 2020)
-
-- Working practices: Agile/XP, morning stand ups, afternoon retros, two-day sprints
-- Programming languages: Ruby, Rails, JavaScript, Python
-- Testing frameworks: RSpec, Jasmine, Capybara, Unittest
-
-#### University of Plymouth (Sept 1998 to June 2000)
-
-- Theatre and Performance Studies(BA Hons)
-- studied a huge variety of theatre styles from all over the world, performing in end-of-terms showcases
-- also a member of the Amateur Dramatics group, including working as a Producer in my final year as well as taking the lead role in teh end of year show, Me & My Girl. 
 
 ## Experience
 
