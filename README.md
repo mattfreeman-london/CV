@@ -2,14 +2,14 @@
 
 I'm a developer-in-training with a lot of life experience, changing careers after working in Customer Services. Graduated from the Makers Bootcamp in London in January 2020 on an intensive course to bring me up to date with excellent working practices, such as Agile, and learning different languages. The goal is to work on projects that make a difference to the users by making sure they're bug-free and accessible to all.
 
-[GitHub profile](https://github.com/mattfreeman-london)
-[Blog](https://medium.com/@mathew.s.l.freeman)
+- [GitHub profile](https://github.com/mattfreeman-london)
+- [Blog](https://medium.com/@mathew.s.l.freeman)
 
 ## Projects
 
-[Raspberry Pi Security Sensor](https://github.com/mattfreeman-london/RPI-Security-Sensor)
-[AceOfBaseBook](https://github.com/mattfreeman-london/acebook-AceofBaseBook) - social media site
-[AirCouch](https://github.com/mattfreeman-london/aircouch) - holiday booking site
+- [Raspberry Pi Security Sensor](https://github.com/mattfreeman-london/RPI-Security-Sensor)
+- [AceOfBaseBook](https://github.com/mattfreeman-london/acebook-AceofBaseBook) - social media site
+- [AirCouch](https://github.com/mattfreeman-london/aircouch) - holiday booking site
 
 ## Skills
 
