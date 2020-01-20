@@ -1,14 +1,14 @@
 # Matt Freeman
 
-I'm a developer-in-training with a lot of life experience, changing careers after working in Customer Services. Graduated from the Makers Bootcamp in London in January 2020 on an intensive course to bring me up to date with excellent working practices, such as Agile, and learning different languages. The goal is to work on projects that make a difference to the users by making sure they're bug-free and accessible to all.
+I'm a developer with a lot of life experience, changing careers after working in Customer Services. I'm looking for a new role that's challenging and will stretch me, with opportunities for training and growth. I have graduated from the Makers Bootcamp in London in January 2020 on an intensive course to bring me up to date with modern working practices, such as Agile, and  with several programming languages. The goal is to work on projects that make a difference to the users by making sure they're bug-free and accessible to all. 
 
 - [GitHub profile](https://github.com/mattfreeman-london)
 - [Blog](https://medium.com/@mathew.s.l.freeman)
 
 ## Projects
 
-- [Raspberry Pi Security Sensor](https://github.com/mattfreeman-london/RPI-Security-Sensor). Final project at Makers, using a Raspberry Pi, motion sensor and camera to take pictures and send them to a website. A notification is also sent via IFTTT to a Slack channel. 
-- [AceOfBaseBook](https://github.com/mattfreeman-london/acebook-AceofBaseBook) - social media site, based on Facebook.
+- [Raspberry Pi Security Sensor](https://github.com/mattfreeman-london/RPI-Security-Sensor). Final project at Makers, using a Raspberry Pi, motion sensor and camera to take pictures and send them to a website. A notification is also sent via IFTTT to a Slack channel. I mostly worked with the hardware, programming the Pi and learning Python for the first time.
+- [AceOfBaseBook](https://github.com/mattfreeman-london/acebook-AceofBaseBook) - social media site, based on Facebook. 
 - [AirCouch](https://github.com/mattfreeman-london/aircouch) - holiday booking site, based on AirBnb.
 
 ## Education
@@ -29,7 +29,7 @@ I'm a developer-in-training with a lot of life experience, changing careers afte
 ## Skills
 
 #### Attention to detail
-- in my role in Customer Services I excelled at being able to spot the small details that had caused a problem, and how to fix them. This would often mean spending time reading through the customer's file, going back as far as I needed to find the root cause, rather than just addressing a surface complaint. For example - finding that the original reason that a customer's broadband speed was slower than expected was to do with how their order had been originally placed two months ago, rather than a technical issue with their connection. This saved a lot of time in solving their issue, and helped the customer avoid a long conversation with our technical help team. We frequently had a lot of pressure to work quickly, so I also needed time-management and prioritisation skills in order to help manage the queue.
+- In my role in Customer Services I excelled at being able to spot the small details that cause problems, and how to fix them. This would often mean spending time reading through the customer's file, going back as far as I needed to find the root cause, rather than just addressing a surface complaint. For example - finding that the original reason that a customer's broadband speed was slower than expected was to do with how their order had been originally placed two months ago, rather than a technical issue with their connection. This saved a lot of time in solving their issue, and helped the customer avoid a long conversation with our technical help team. We frequently had a lot of pressure to work quickly, so I also needed time-management and prioritisation skills in order to help manage the queue.
 
 #### Ability to communicate with people of all knowledge levels
 - my previous career involved working with everyone from managers and directors at work, to customers with little or no understanding of how their request translated into what we could do. I had to be able to effectively communicate and translate between different knowledge levels, to help the customer to understand what had happened and to make sure I could use appropriate technical terms within the workplace. With a customer on the phone, often I had to rapidly switch between different styles of language if I put them on hold. Swift, clear communication was absolutey vital to deliver the best experience. 
