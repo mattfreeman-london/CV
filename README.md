@@ -20,7 +20,7 @@ I'm a developer with a lot of life experience, changing careers after working in
 - Working practices: Agile/XP
 - Other: Sinatra, Travis, Heroku
 
-#### University of Plymouth (Sept 1998 to June 2000)
+#### University of Plymouth (Sept 1997 to June 2000)
 
 - Theatre and Performance Studies(BA Hons)
 
