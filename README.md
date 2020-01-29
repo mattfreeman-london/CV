@@ -10,6 +10,7 @@ I'm a developer with a lot of life experience, changing careers after working in
 - [Raspberry Pi Security Sensor](https://github.com/mattfreeman-london/RPI-Security-Sensor). Final project at Makers, using a Raspberry Pi, motion sensor and camera to take pictures and send them to a website. A notification is also sent via IFTTT to a Slack channel. I mostly worked with the hardware, programming the Pi and learning Python.
 - [AceOfBaseBook](https://github.com/mattfreeman-london/acebook-AceofBaseBook) - social media site, based on Facebook. 
 - [AirCouch](https://github.com/mattfreeman-london/aircouch) - holiday booking site, based on AirBnb.
+- [Wild Shape Helper](https://github.com/mattfreeman-london/Pathfinder2e-Wild_Shape) - work in progress app, in JavaScript, to assist Pathfinder 2nd Edition players with the Wild Shape rules.
 
 ## Education
 
