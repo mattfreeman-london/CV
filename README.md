@@ -2,7 +2,6 @@
 
 I'm a Makers Academy graduate, changing careers after working in Customer Services. I want to work in tech to challenge myself, learn new skills, and create. I graduated from the Makers Bootcamp in London in January 2020 having learned Javascript, Ruby and Python. We also were taught lightweight Agile methods, such as Scrum. My goal is to work on projects that make a difference to users’ lives, and to write accessible, bug-free code.
 - [GitHub profile](https://github.com/mattfreeman-london)
-- [Blog](https://medium.com/@mathew.s.l.freeman)
 
 ## Makers Academy Projects
 
@@ -31,6 +30,10 @@ Which? Magazine multi-award winning utility company, working with incoming calls
 *Customer Services Advisor*
 
 Helping companies book their employees on training courses, focusing on Accountancy training. Working under pressure taking incoming calls, as spaces would rapidly fill up. Managing off-the-cuff requests to adjust dates and locations, and working with repeat clients spending thousands of pounds a year.
+
+### Professional Actor
+
+After leaving University, but before getting into full-time office work I was a professional actor. I performed at the Edinburgh Fringe, in Theatre in Education projects and on touring theatrical productions. I was delighted to play the title role in Terry Pratchett's *Eric!* in York. I gained huge confidence in speaking in front of people, communicating, and working with children.
 
 ### University of Plymouth (Sept 1997 to June 2000)
 
