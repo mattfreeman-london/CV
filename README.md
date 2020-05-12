@@ -8,7 +8,7 @@ I'm a Makers Academy graduate, changing careers after working in Customer Servic
 - [Raspberry Pi Security Sensor](https://github.com/mattfreeman-london/RPI-Security-Sensor). Final project at Makers, using Python on a Raspberry Pi, motion sensor and camera to capture images and host them on a remote website. A notification is also sent via IFTTT to a Slack channel. 
 - [AceOfBaseBook](https://github.com/mattfreeman-london/acebook-AceofBaseBook) - social media site, based on Facebook.
 - [AirCouch](https://github.com/mattfreeman-london/acebook-AceofBaseBook) - holiday booking site, based on AirBnb.
-- [JavaScript practice](https://github.com/mattfreeman-london/javascript-practice) - I've been working heavily on getting my JavaScript up to speed, and all the collected mini-projects I've done are collected here
+- [JavaScript practice](https://github.com/mattfreeman-london/javascript-practice) - I completed the CodeAcademy JavaScript course, covering everything including modules, async functions and promises.
 
 ## Education & Experience
 
