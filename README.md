@@ -1,6 +1,6 @@
 # Matt Freeman
 
-I'm a Makers Academy graduate, changing careers after working in Customer Services. I want to work in tech to challenge myself, learn new skills, and create. I graduated from the Makers Bootcamp in London in January 2020 having learned Javascript, Ruby and Python. We also were taught lightweight Agile methods, such as Scrum. My goal is to work on projects that make a difference to users’ lives, and to write accessible, bug-free code.
+Graduated from Makers Academy coding bootcamp, changing careers after working in Customer Services. I want to work in tech to challenge myself, learn new skills, and create. I graduated from the Makers Bootcamp in London in January 2020 having learned Javascript, Ruby and Python. We also were taught lightweight Agile methods, such as Scrum. My goal is to work on projects that make a difference to users’ lives, and to write accessible, bug-free code.
 - [GitHub profile](https://github.com/mattfreeman-london)
 
 ## Makers Academy Projects
