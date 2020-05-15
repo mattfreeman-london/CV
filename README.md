@@ -3,12 +3,16 @@
 Graduated from Makers Academy coding bootcamp, changing careers after working in Customer Services. I want to work in tech to challenge myself, learn new skills, and create. I graduated from the Makers Bootcamp in London in January 2020 having learned Javascript, Ruby and Python. We also were taught lightweight Agile methods, such as Scrum. My goal is to work on projects that make a difference to users’ lives, and to write accessible, bug-free code.
 - [GitHub profile](https://github.com/mattfreeman-london)
 
+## Post-Makers Work
+
+- [WittrCoins](https://github.com/benfurber/wittrcoin-web) - React web app. A fan project, inspired by Simon Mayo and Mark Kermode's Film Review show on BBC Radio 5 Live / BBC 4 / podcast. 
+- [JavaScript practice](https://github.com/mattfreeman-london/javascript-practice) - I completed the CodeAcademy JavaScript course, covering everything including modules, async functions and promises.
+
 ## Makers Academy Projects
 
 - [Raspberry Pi Security Sensor](https://github.com/mattfreeman-london/RPI-Security-Sensor). Final project at Makers, using Python on a Raspberry Pi, motion sensor and camera to capture images and host them on a remote website. A notification is also sent via IFTTT to a Slack channel. 
 - [AceOfBaseBook](https://github.com/mattfreeman-london/acebook-AceofBaseBook) - social media site, based on Facebook.
 - [AirCouch](https://github.com/mattfreeman-london/acebook-AceofBaseBook) - holiday booking site, based on AirBnb.
-- [JavaScript practice](https://github.com/mattfreeman-london/javascript-practice) - I completed the CodeAcademy JavaScript course, covering everything including modules, async functions and promises.
 
 ## Education & Experience
 
