@@ -1,6 +1,12 @@
 # Matt Freeman
 
-Graduated from Makers Academy coding bootcamp, changing careers after working in Customer Services. I want to work in tech to challenge myself, learn new skills, and create. I graduated from the Makers Bootcamp in London in January 2020 having learned Javascript, Ruby and Python. We also focused on Test-Driven Development, Agile working practices and working as a team. My goal is to work on projects that make a difference to user's lives, and to write accessible, bug-free code.
+Graduated from Makers Academy coding bootcamp, changing careers after working in Customer Services. I want to work in tech to challenge myself, learn new skills, and create. I graduated from the Makers Bootcamp in London in January 2020 having learned Javascript, Ruby and Python.
+
+I was also a professional actor, learnt excellent communication skills and developed an ability to stand up in front of anyone and talk to them. I'm confident these skills make me an excellent team player, willing to debate my idea but also listen carefully and bring other people into the discussion. 
+
+At Makers, we also focused on Test-Driven Development, Agile working practices and working as a team. There was also a lot of emphasis on emotional intelligence & empathy. 
+
+My ideal role is working on an ethical project that makes a difference to user's lives. I also intend to have a reputation for accessible, bug-free code.
 
 ## Post-Makers Work
 
