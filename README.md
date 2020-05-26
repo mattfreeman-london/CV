@@ -1,5 +1,7 @@
 # Matt Freeman
 
+TLDR; I made a short video to introduce myself. Click the picture!
+
 [![Introducing Me](http://img.youtube.com/vi/_aUAFTtptOY/0.jpg)](http://www.youtube.com/watch?v=_aUAFTtptOY "Introducing Me")
 
 Graduated from Makers Academy coding bootcamp, changing careers after working in Customer Services. I want to work in tech to challenge myself, learn new skills, and create. I graduated from the Makers Bootcamp in London in January 2020 having learned [Javascript](https://github.com/mattfreeman-london/javascript-practice), [Ruby](https://github.com/mattfreeman-london/bank_tech_test) and Python.
