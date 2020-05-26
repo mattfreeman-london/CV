@@ -1,7 +1,6 @@
 # Matt Freeman
 
-Graduated from Makers Academy coding bootcamp, changing careers after working in Customer Services. I want to work in tech to challenge myself, learn new skills, and create. I graduated from the Makers Bootcamp in London in January 2020 having learned Javascript, Ruby and Python. We also were taught lightweight Agile methods, such as Scrum. My goal is to work on projects that make a difference to users’ lives, and to write accessible, bug-free code.
-- [GitHub profile](https://github.com/mattfreeman-london)
+Graduated from Makers Academy coding bootcamp, changing careers after working in Customer Services. I want to work in tech to challenge myself, learn new skills, and create. I graduated from the Makers Bootcamp in London in January 2020 having learned Javascript, Ruby and Python. We also focused on Test-Driven Development, Agile working practices and working as a team. My goal is to work on projects that make a difference to user's lives, and to write accessible, bug-free code.
 
 ## Post-Makers Work
 
@@ -18,10 +17,10 @@ Graduated from Makers Academy coding bootcamp, changing careers after working in
 
 ### Makers Academy (Oct 2019 - Jan 2020)
 
-- Programming languages: Ruby (and Rails), JavaScript, Python, Django
+- Programming languages: Ruby (and Rails), JavaScript, React, Python, Django
 - Testing frameworks: RSpec, Jasmine, Capybara, Unittest
 - Working practices: Agile/XP, Pairing, Test-driven development
-- Other: Sinatra, Travis CI, Heroku, Django
+- Other: Sinatra, Travis CI, Heroku
 
 ### Utility Warehouse (May 2013 - Sept 2019)
 
