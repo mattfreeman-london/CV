@@ -14,7 +14,6 @@ My ideal role is working on an ethical project that makes a difference to user's
 
 ## Post-Makers Work
 
-- [WittrCoins](https://github.com/benfurber/wittrcoin-web) - Work in progress React web app. A fan project, inspired by Simon Mayo and Mark Kermode's Film Review show on BBC Radio 5 Live / BBC 4 / podcast. 
 - [Neptune's Pride Combat Simulator](https://github.com/mattfreeman-london/neptunes-pride) - JavaScript program used to simulate combat in the online game [Neptune's Pride](https://np.ironhelmet.com/#landing). 
 
 ## Makers Academy Projects
